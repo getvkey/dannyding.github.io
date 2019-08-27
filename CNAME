@@ -1,1 +1,4 @@
-https://getvkey.github.io
+
+source 'https://getvkey.github.io'
+
+gemspec
