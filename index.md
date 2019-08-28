@@ -6,7 +6,8 @@ layout: post
 ## 关于我
 
 > 菜鸟码农一枚
-> 文章前期大多转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io) 很有帮助 谢谢
+> 文章前期大多转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io) 
+> 很有帮助 谢谢
 
 
 ## 博客平台
