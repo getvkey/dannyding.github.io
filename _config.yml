@@ -33,8 +33,9 @@ ga:
   id: UA-145888178-1
   url: getvkey.github.io
 
-# timezone: Asia/Shanghai
-timezone: TIMEZONE
+timezone: Asia/Shanghai
+# timezone: TIMEZONE
+date: year-month-date [hour:minute:second] [timezone]
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
