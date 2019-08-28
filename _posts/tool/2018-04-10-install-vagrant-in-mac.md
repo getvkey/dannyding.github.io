@@ -6,7 +6,7 @@ tags: [Mac, Vagrant]
 keywords: Mac,Vagrant
 description: 
 ---
->转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
+> 转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
 
 > Vagrant是一款用来构建虚拟开发环境的工具，它其实算是一个跨平台的虚拟机管理工具。
 

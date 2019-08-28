@@ -5,7 +5,7 @@ category: 工具
 tags: Git
 description: 使用git push命令远程提交库时，总是要输入帐号和密码，这样特别麻烦，找了一个方法解决掉
 ---
->转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
+> 转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
 
 最近利用jekyll写博客，为的就是博客管理方便，但是在上传博客的时候使用`git push`命令每次都得输入github帐号和密码特别的不方便，于是就搜了一下。
 

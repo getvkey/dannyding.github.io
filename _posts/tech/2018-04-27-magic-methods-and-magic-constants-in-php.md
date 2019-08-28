@@ -6,7 +6,7 @@ tags: PHP
 keywords: PHP,魔术方法
 description: 
 ---
->转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
+> 转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
 
 > 有些东西如果不是经常使用，很容易忘记，比如魔术方法和魔术常量。
 

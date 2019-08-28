@@ -5,7 +5,7 @@ category: 技术
 tags: HTML
 description: 在写此博客程序布局时，响应式布局一直不好使，各种调试总算找到原因在于没有写meta viewpoint标签，在此做一个总结，以免以后出问题
 ---
->转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
+> 转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
 
 ## debug过程
 1.在web上浏览的时候，响应式布局是好用的，放大缩小页面都可以实现页面变更，但是在手机上调试的时候死活不能用

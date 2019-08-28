@@ -6,7 +6,7 @@ tags: PHP
 keywords: PHP,命名空间,自动加载
 description: 
 ---
->转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
+> 转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
 
 ## 命名空间
 什么是[命名空间][1]呢？

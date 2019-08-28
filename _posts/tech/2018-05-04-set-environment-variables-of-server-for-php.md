@@ -6,7 +6,7 @@ tags: [PHP, Nginx, Apache]
 keywords: PHP,Apache,Nginx,环境变量,服务器
 description: 
 ---
->转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
+> 转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
 
 > 设置环境变量常见的地方为区分开发环境/生产环境，或者定义一些数据库的帐号密码
 

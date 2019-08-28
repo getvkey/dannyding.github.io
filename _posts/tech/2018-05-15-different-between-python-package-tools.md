@@ -5,7 +5,7 @@ category: 技术
 tags: Python
 description: Python打包工具之间的区别和关系，有助于在新项目中做好选择，转载自他人
 ---
->转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
+> 转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
 
 从下面部分可以大致了解一下各个工具的由来和区别，推荐[Python打包工具](http://www.ituring.com.cn/article/19090)这篇文章，来自图灵社区的一篇翻译文，很详细的解释了Python打包工具的发展。
 

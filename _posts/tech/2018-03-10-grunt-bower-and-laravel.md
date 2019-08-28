@@ -6,7 +6,7 @@ tags: [PHP, Laravel]
 keywords: Laravel,PHP,Grunt,Bower
 description: 
 ---
->转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
+> 转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
 
 > 每个开发者都应该有自己的工具箱
 

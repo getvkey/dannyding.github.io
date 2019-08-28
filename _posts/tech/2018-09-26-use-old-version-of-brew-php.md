@@ -6,7 +6,7 @@ tags: [PHP, Mac]
 keywords: PHP,Mac,Brew,旧版本,Version
 description: 
 ---
->转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
+> 转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
 
 > 昨天随手一点`brew upadte & brew upgrade`后phpunit出现了各种F，细查下来原来是 php 5.5.17 的一个[bug fix](https://bugs.php.net/bug.php?id=67839) 引起的。为了暂时正常使用phpunit，只能回退php的版本。
 

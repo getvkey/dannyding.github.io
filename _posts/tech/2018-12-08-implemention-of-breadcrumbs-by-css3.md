@@ -6,7 +6,7 @@ tags: CSS
 keywords: CSS,尖角,面包屑,导航
 description: 
 ---
->转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
+> 转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
 
 > 尖角面包屑导航应该算是比较常见的导航之一，尤其是在做流程引导的时候。为了做一个比较好看的导航，一般都会做成尖角的，而且还会有渐变色，这就是稍微麻烦点的地方了，下面是这个导航的一个实现原理
 

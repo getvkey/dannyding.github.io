@@ -6,7 +6,7 @@ tags: [Linux , MySQL , MongoDB]
 keywords: Linux,MySQL,MongoDB
 description: 在服务器上操作mysql和mongo时，还是有个界面比较直观，对自己的手好一点
 ---
->转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
+> 转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
 
 ## MySQL管理界面
 这个没多少选择，大部分人都安装的是phpmyadmin，而且简单方便，在ubuntu下，只要

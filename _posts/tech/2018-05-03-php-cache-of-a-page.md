@@ -5,7 +5,7 @@ category: 技术
 tags: PHP
 description: 一些访问量很大的网页，尤其是网站主页，展现过程中如果数据都是现成生成，会导致一些瓶颈，使用数据缓存可以极大减少页面生成时间
 ---
->转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
+> 转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
 
 ### 适用范围
 

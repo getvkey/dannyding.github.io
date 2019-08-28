@@ -6,9 +6,9 @@ tags: Linux
 keywords: Linux,连续,命令
 description:
 ---
->转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
+> 转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
 
->有的时候执行一些简单指令的时候总不想分好几次输入，利用以下方法可以方便的一次执行多个命令
+> 有的时候执行一些简单指令的时候总不想分好几次输入，利用以下方法可以方便的一次执行多个命令
 
 ### 连续不中断执行
 

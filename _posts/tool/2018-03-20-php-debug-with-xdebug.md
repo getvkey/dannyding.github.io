@@ -6,7 +6,7 @@ tags: PHP
 keywords: Xdebug,Sublime,PHP
 description: 
 ---
->转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
+> 转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
 
 > xdebug是php调试的好帮手，sublime是php编写的好帮手。这里只说如何配置，默认读者会用sublime和xdebug
 

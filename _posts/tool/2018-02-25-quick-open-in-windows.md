@@ -5,7 +5,7 @@ category: 工具
 tags: Windows
 description: windows下打开文件或应用程序经常需要手点，作为键盘控肯定是不能忍受的。之前试过一些软件，设置各个程序的快捷键，但是快捷键可能会有冲突，而且记性不好实在不好用，所以选择使用Win自带的“运行”来加快打开速度
 ---
->转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
+> 转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
 
 Win7下打开“运行”的快捷键是 Win+R
 

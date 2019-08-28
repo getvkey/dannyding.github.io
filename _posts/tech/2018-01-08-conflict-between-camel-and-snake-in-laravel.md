@@ -6,6 +6,7 @@ tags: [PHP, Laravel]
 keywords: Laravel,Conflict,Relationship,Model
 description: 
 ---
+> 转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
 
 ## 1. 定义关联模型
 

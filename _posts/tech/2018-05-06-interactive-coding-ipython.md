@@ -5,7 +5,7 @@ category: 技术
 tags: Python
 description: python作为一个脚本语言，最大的好处就是非常方便的编译执行过程。而合理利用ipython，更能让想法的实现速度提高一大截
 ---
->转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
+> 转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
 
 ## [IPython](http://ipython.org/)简介
 

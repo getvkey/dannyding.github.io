@@ -5,7 +5,7 @@ category: 技术
 tags: JavaScript
 description: JS中防止浏览器屏蔽window.open
 ---
->转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
+> 转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
 
 有的时候我们需要一些弹出窗来作为临时信息显示，在js代码中直接使用
 

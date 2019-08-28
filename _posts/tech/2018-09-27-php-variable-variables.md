@@ -5,7 +5,7 @@ category: 技术
 tags: PHP
 description: PHP可变变量
 ---
->转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
+> 转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
 
 ### 什么叫可变变量
 

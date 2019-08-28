@@ -5,7 +5,7 @@ category: 技术
 tags: Python
 description: 对我来说，一个东西真正掌握的表现方式是亲手试过，而且可以给别人讲清楚，这篇是我对WSGI的理解 
 ---
->转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
+> 转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
 
 ## WSGI(Web Server Gateway Interface)
 WSGI是WEB服务网关接口的缩写，是为Python语言定义的Web服务器和Web应用程序之间一种简单而通用的接口。它没有具体的实现，更像是一个标准协议，具体可以去[PEP333](http://www.python.org/dev/peps/pep-0333/)了解。

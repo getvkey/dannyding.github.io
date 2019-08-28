@@ -5,7 +5,7 @@ category: 技术
 tags: Concept
 description: 最近做一个项目用了很多开源的组建，项目有可能会发布，所以提前整理整理各个开源协议，有助于项目发展
 ---
->转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
+> 转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
 
 ## 简介
 

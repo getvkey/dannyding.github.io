@@ -5,7 +5,7 @@ category: 工具
 tags: [Windows , Linux]
 description: 如果你也像我一样经常工作于Windows和Linux，那么这篇文章值得一看
 ---
->转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
+> 转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
 
 ## 尝试和选择
 

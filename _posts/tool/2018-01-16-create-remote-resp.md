@@ -5,15 +5,15 @@ category: 工具
 tags: Git
 description: git创建远程库
 ---
->转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
+> 转载自:[https://yansu.readthedocs.io](https://yansu.readthedocs.io),谢谢
 
 # git创建远程库
 
->git中一般使用 git init 创建的库不允许同一分支多个work tree直接提交，如果这么做有可能会出现以下问题：
+> git中一般使用 git init 创建的库不允许同一分支多个work tree直接提交，如果这么做有可能会出现以下问题：
 
->remote: error: refusing to update checked out branch: refs/heads/master
+> remote: error: refusing to update checked out branch: refs/heads/master
 
->要解决这个问题可以有以下四种方式
+> 要解决这个问题可以有以下四种方式
 
 ## 创建共享库（推荐）
 
