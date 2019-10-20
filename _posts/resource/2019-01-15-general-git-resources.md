@@ -8,6 +8,16 @@ keywords: Git
 
 ## 库管理
 
+### 初始化
+```bash
+echo "# photoweb" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/getvkey/photoweb.git
+git push -u origin master
+```
+
 ### 克隆库
 
 ```bash
