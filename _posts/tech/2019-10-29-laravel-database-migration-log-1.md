@@ -1,10 +1,10 @@
 ---
 layout: post
-title: laravel安装记录
+title: laravel 数据库迁移记录
 category: 技术
 tags: PHP
-keywords: 
-description: laravel安装记录
+keywords: laravel migration
+description: laravel 数据库迁移记录
 ---
 
 增加一个新字段
