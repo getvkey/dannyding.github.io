@@ -1,3 +1,11 @@
+---
+layout: post
+title: laravel安装记录
+category: 技术
+tags: PHP
+description: laravel安装记录
+---
+
 增加一个新字段
 
 例如，我要给 articles 表增加一个 images 字段。
