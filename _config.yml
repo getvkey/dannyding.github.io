@@ -1,9 +1,9 @@
-title: Hacker-Blog
+title: DannyDing-Blog
 description: "A Jekyll Blog Theme For Hackers"
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  name: "DannyDing"
+  email: "ucyour@live.com"
+  url: "https://getvkey.github.io"
 
 baseurl: /
 
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "SomeHacker"
+owner : "DannyDing"
 year : "2018"
