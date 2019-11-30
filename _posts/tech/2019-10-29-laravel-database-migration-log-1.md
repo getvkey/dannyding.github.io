@@ -37,7 +37,7 @@ Created Migration: 2018_03_21_225819_add_images_to_articles_table
 database/migrations/2018_03_21_225819_add_images_to_articles_table.php
 ```
 
-> 新增字段
+新增字段
 ```php
 public function up()
 {
@@ -54,7 +54,7 @@ public function down()
 }
 ```
 
-> 修改字段
+修改字段
 ```php
 public function up()
 {
