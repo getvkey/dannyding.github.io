@@ -1,32 +1,27 @@
-title: DannyDing-Blog
-description: "A Jekyll Blog Theme For Hackers"
-author:
-  name: "DannyDing"
-  email: "ucyour@live.com"
-  url: "https://getvkey.github.io"
+name: "Jekyll true minimal theme"
+description: "Lightweight theme"
 
-baseurl: /
+url: '' 
+baseurl: ''
+
+markdown: kramdown
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+plugins:
+  - jekyll-paginate
+paginate: 10
+paginate_path: /page-:num
+
+#disqus-id: your-disqus-id
 
 source: .
 destination: ./_site
-permalink: /:title
-paginate: 3
-paginate_path: /page/:num/
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-
-future: true
-plugins:
-  - jekyll-seo-tag
-  - jekyll-paginate
-  - jekyll-sitemap
-
-# Custom variables
-owner : "DannyDing"
-year : "2018"
+sass:
+    style: :compressed
+    sass_dir: assets/css/
