@@ -1,9 +1,3 @@
-<!--
- * @Author: dannyding
- * @Date: 2019-08-27 16:12:56
- * @LastEditTime: 2019-08-27 16:12:56
- * @Description: 
- -->
 ---
 layout: post
 title: PHP 常用资源
