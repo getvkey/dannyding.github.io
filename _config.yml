@@ -25,6 +25,6 @@ source: .
 destination: ./_site
 
 sass:
-    style: :compressed
+    style: compressed
     sass_dir: assets/css/
 
