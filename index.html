@@ -9,9 +9,9 @@ layout: default
       {{ post.title }}
     </a>
   </h2>
-  
+
   <p>{{ post.excerpt | strip_html | truncate: 250 }}</p>
-</section>       
+</section>
 {% endfor %}
 
 {% if paginator.previous_page %}
@@ -23,4 +23,3 @@ layout: default
 {% if paginator.next_page %}
 <a href='{{ site.url }}{{ paginator.next_page_path }}'>Next</a>
 {% endif %}
-
