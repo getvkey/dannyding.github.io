@@ -25,3 +25,4 @@ destination: ./_site
 sass:
     style: :compressed
     sass_dir: assets/css/
+
